@@ -1,5 +1,5 @@
 // نام و نسخه کش — با هر تغییر در فایل‌ها، این نسخه را افزایش دهید
-const CACHE_NAME = 'diabetes-app-v1.0.0';
+const CACHE_NAME = 'diabetes-app-v1';
 
 // فایل‌هایی که باید کش شوند (مسیرهای نسبی برای GitHub Pages)
 const ASSETS_TO_CACHE = [
@@ -20,7 +20,7 @@ const ASSETS_TO_CACHE = [
   './fonts/font awesome/webfonts/fa-solid-900.woff2',
   './fonts/font awesome/webfonts/fa-v4compatibility.ttf',
   './fonts/font awesome/webfonts/fa-v4compatibility.woff2',
-  './fonts/vazir/Vazirmatn-vazir.css',
+  './fonts/vazir/vazir.css',
   './fonts/vazir/Vazirmatn-Regular.ttf',
   './js/script.min.js'
 ];

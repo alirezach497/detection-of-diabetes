@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#00d4ff" />
-    <!-- پشتیبانی iOS (Safari از manifest پشتیبانی کامل نمی‌کند) -->
-    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <!-- Support for iOS (Safari) -->
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="تشخیص دیابت" />
     <link rel="apple-touch-icon" href="./icons/icon-250.png" />
@@ -16,8 +16,6 @@
     <link rel="stylesheet" href="css/style.min.css" />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <link rel="manifest" href="manifest.json" />
-
-
 </head>
 <body>
     <!-- Main App Container -->
@@ -137,7 +135,7 @@
             <div class="modal-icon" id="modalIcon"><i class="fas fa-check-circle"></i></div>
             <div class="modal-title" id="modalTitle">نتیجه</div>
             <div class="modal-message" id="modalMessage"></div>
-            <div class="modal-confidence">span>اطمینان مدل</span><span id="confidenceValue">—</span></div>
+            <div class="modal-confidence"><span>اطمینان مدل</span><span id="confidenceValue">—</span></div>
             <button class="modal-close-btn" id="closeModalBtn"><i class="fas fa-arrow-left"></i> بستن</button>
         </div>
     </div>
