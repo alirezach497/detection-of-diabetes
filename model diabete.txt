@@ -1,0 +1,23 @@
+Results for output field Outcome
+	Overall Results
+		Comparing $C-Outcome with Outcome
+			'Partition'            1_Training            2_Testing         
+			Correct                       448   83.12%         163   71.18%
+			Wrong                          91   16.88%          66   28.82%
+			Total                         539                  229         
+
+Output field Outcome, splitting by field Outcome 
+	Outcome  = 0
+		Comparing $C-Outcome with Outcome
+			'Partition'            1_Training            2_Testing         
+			Correct                       337   91.83%         116   87.22%
+			Wrong                          30    8.17%          17   12.78%
+			Total                         367                  133         
+
+	Outcome  = 1
+		Comparing $C-Outcome with Outcome
+			'Partition'            1_Training            2_Testing         
+			Correct                       111   64.53%          47   48.96%
+			Wrong                          61   35.47%          49   51.04%
+			Total                         172                   96         
+

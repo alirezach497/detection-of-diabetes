@@ -1,0 +1,2 @@
+@font-face{font-family:"Vazirmatn"; src:url('./Vazirmatn-Regular.ttf');}
+body {font-feature-settings:"vern" 1,"ss01" 1;}
