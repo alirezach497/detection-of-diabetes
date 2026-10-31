@@ -12,25 +12,25 @@
     "orientation": "portrait",
     "icons": [
         {
-            "src": "/icons/icon-72.png",
+            "src": "./icons/icon-72.png",
             "type": "image/png",
             "sizes": "72x72",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/icon-96.png",
+            "src": "./icons/icon-96.png",
             "type": "image/png",
             "sizes": "96x96",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/icon-128.png",
+            "src": "./icons/icon-128.png",
             "type": "image/png",
             "sizes": "128x128",
             "purpose": "any maskable"
         },
         {
-            "src": "/icons/icon-250.png",
+            "src": "./icons/icon-250.png",
             "type": "image/png",
             "sizes": "250x250",
             "purpose": "any maskable"
